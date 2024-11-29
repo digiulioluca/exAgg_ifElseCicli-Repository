@@ -26,7 +26,7 @@ public class Login {
 		
 		Scanner scanner = new Scanner(System.in);
 
-		System.out.println("LOGIN AREA. \nInserisci nome utente e password: ");
+		System.out.println("LOGIN AREA non mod. \nInserisci nome utente e password: ");
 		
 		for(int c = 1; c <= maxTent; c++) {	//ciclo for 
 			user = scanner.nextLine();
